@@ -87,15 +87,3 @@ Ensure you have the following installed on your machine:
 ## Usage
 
 Once both the client and server are running, you can access the application at `http://localhost:3000` in your web browser. The application uses AWS Cognito for user authentication and AWS S3 for storing project-related files.
-
-## Contributing
-
-Contributions are welcome! Please submit issues or pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
